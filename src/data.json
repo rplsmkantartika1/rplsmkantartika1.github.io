@@ -1,0 +1,11 @@
+{
+  "modul": [
+    {
+      "name": "React JS",
+      "link": "modul-react-js",
+      "image": "/assets/images/react-tp.png",
+      "author": "Luthfi Firmansyah",
+      "author_image": "/assets/images/user.png"
+    }
+  ]
+}
